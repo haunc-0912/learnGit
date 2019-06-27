@@ -1,3 +1,8 @@
 this is sample file
 Remove line
 add branch
+add branch
+FIXED bug
+Them Dong nay
+Them dong de conflict
+add branch
