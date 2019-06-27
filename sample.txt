@@ -1,5 +1,2 @@
 this is sample file
 Them dong de conflict
-add branch
-
-hello
